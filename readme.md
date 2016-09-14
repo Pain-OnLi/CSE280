@@ -51,5 +51,7 @@ Make sure to submit a pull request when you are finished.
 
 Hopefully, my instructions are clear enough. If you need any help just ask.
 
+I made a change. -Brandon Miller
+
 Thanks,
 Michael Frieze
